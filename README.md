@@ -1,1 +1,2 @@
-This programm is checking the input number on primary number
+This programm is checking the input number primary or not
+## For CodeWars
